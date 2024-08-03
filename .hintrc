@@ -9,6 +9,7 @@
     "not firefox <= 126"
   ],
   "hints": {
-    "compat-api/css": "off"
+    "compat-api/css": "off",
+    "typescript-config/consistent-casing": "off"
   }
 }
